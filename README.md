@@ -8,6 +8,15 @@
   Frontend Developer | Angular Enthusiast | UI/UX Focused
 </p>
 
+<p align="center">
+  <a href="#https://www.linkedin.com/in/sara-nadi-56b5362bb"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="#mailto:saranadi411@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="#https://t.me/@sarah_nadi"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=internet-explorer&logoColor=white" /></a>
+    <a href="#https://wa.me/201142518177"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+
+</p>
+
 ---
 
 ### 📌 About Me
@@ -44,9 +53,6 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <!-- GitHub Overview Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=sarah-nadi&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="48%"/>
-
-  <!-- GitHub Streak Card -->
   <img src="https://streak-stats.demolab.com?user=sarah-nadi&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%"/>
 </div>
